@@ -45,7 +45,7 @@ Here are some games that I've developed in the past as a 3D artist and animator:
     <summary>
     <a href="https://aisle2.itch.io/custodial-conundrum"><u>Custodial Conundrum</u></a> - A stealth/puzzle game where you play as a janitor wielding magic.
     </summary>
-    This is a stealth/puzzle game that I developed in my senior year of university with 6 other game developers. This was an enjoyable project to be a part of. I has fun creating comedic animations and character models for this game. 
+    This is a stealth/puzzle game that I developed in my senior year of university with 6 other game developers. This was an enjoyable project to be a part of. I had fun creating comedic animations and character models for this game. 
     We felt like janitors don't get enough appreciation for their work, so we decided that the player character would be an undervalued janitor working for a magical school of wizards and witches. The premise of this game is that the janitor would
     sneak through the school, steal various spells to gain power, and use them on the student body that undermined him.<br>
 </details>
