@@ -13,7 +13,7 @@ Hello there, I'm Yohannes! Welcome to my info page! To tell a little bit about m
         <a href="https://github.com/ylaksana/pokemonCaller"><u>Pokemon Caller</u></a> - Pokemon Information Discord Bot <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-pokeball-48.png' title='PokeCaller' alt='Python' width='15'/>
     </summary>
     This is a discord bot that pulls information about a specific Pokemon from an external API. It can display various attributes of a given Pokemon such as its ID, name, moves, stats, etc.
-This project is in the early stages of development, but my final goal is to create a database that is able to store multiple Pokemon entries that can be changed by external inputs and simulate Pokemon battles.<br>
+    This bot also manages a PostgreSQL database that allows users to create and battle Pokemon. User input can be made to create a Pokemon instance as an entry in the database with its own unique ID, abilities, and battle stats. Additionally, users can make inputs that can manipulate Pokemon instances that belong to them and interact with other users' Pokemon instances through battles.<br>
 </p>
 
 Here is an example of what it can do so far:
