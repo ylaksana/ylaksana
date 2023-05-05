@@ -29,6 +29,7 @@ Here is an example of what it can do so far:
     This project is a text-based RPG adventure game where the player uses a team of cat warriors to explore the world and fight enemy pets. This was my first project that I've done in C++ and my first video game project. I wanted to try making a video game with the skills I learned in my coding classes and the work was fulfilling as I had freedom in creativity, designing the game from scratch such as classes, enemies, attacks, and functions for interactions.
     <br>
 </p>
+</details>
 
 ![Header](https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/languages.jpg "Header")
 
