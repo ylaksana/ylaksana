@@ -24,7 +24,7 @@ Here is an example of what it can do so far:
 
 <details>
     <summary>
-        <a href="https://github.com/ylaksana/pokemonCaller"><u>Cat Warriors</u></a> - Singleplayer Text Role-playing Game <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-cat-butt-30.png' title='PokeCaller' alt='Python' width='17'/>
+        <a href="https://github.com/ylaksana/CatWarriors"><u>Cat Warriors</u></a> - Singleplayer Text Role-playing Game <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-cat-butt-30.png' title='PokeCaller' alt='Python' width='17'/>
     </summary>
     This project is a text-based RPG adventure game where the player uses a team of cat warriors to explore the world and fight enemy pets. This was my first project that I've done in C++ and my first video game project. I wanted to try making a video game with the skills I learned in my coding classes and the work was fulfilling as I had freedom in creativity, designing the game from scratch such as classes, enemies, attacks, and functions for interactions.
     <br>
