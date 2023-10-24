@@ -31,6 +31,17 @@ Here is an example of what it can do so far:
 </p>
 </details>
 
+<details>
+    <summary>
+        <a href="https://github.com/ylaksana/Deep-Learning-Projects"><u>Deep Learning Projects</u></a> - Classification Networks <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-pytorch-48.png' title='PokeCaller' alt='Python' width='17'/>
+    </summary>
+    These are class projects that involved designing and optimizing neural networks. These networks utilize the PyTorch library in Python they deal with challenges such as objection detection and computer vision using batched images. The projects I have undertaken in the class so far
+    involve training convolutional and fully convolutional networks to classify various objects in road
+    settings.
+    <br>
+</p>
+</details>
+
 ![Header](https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/languages.jpg "Header")
 
 <p align = 'center'>
