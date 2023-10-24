@@ -38,6 +38,8 @@ So far, I use these languages for programming:<br>
 <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-c%2B%2B-48.png' title='C++' alt='Python' width='50
 '/>
 <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-python-48.png' title='Python' alt='Python' width='50'/>
+<img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-pytorch-48.png' title='Python' alt='Python' width='50'/>
+<img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-tensorflow-48.png' title='Python' alt='Python' width='50'/>
 <p align = 'center'>
 And I've used these technologies to implement my work:<br>
 <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-discord-48.png' title='Discord' alt='Python' width='50'/>
