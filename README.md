@@ -35,9 +35,7 @@ Here is an example of what it can do so far:
     <summary>
         <a href="https://github.com/ylaksana/Deep-Learning-Projects"><u>Deep Learning Projects</u></a> - Classification Networks <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-pytorch-48.png' title='PokeCaller' alt='Python' width='17'/>
     </summary>
-    These are class projects that involved designing and optimizing neural networks. These networks utilize the PyTorch library in Python and they deal with challenges such as objection detection and computer vision using batched images. The projects I have undertaken in the class so far
-    involve training convolutional and fully convolutional networks to classify various objects in road
-    settings.
+    These are class projects that involved designing and optimizing neural networks. These networks utilize the PyTorch library in Python and they deal with challenges such as objection detection and computer vision using batched images. I also did state based learning for SuperTuxKart hockey matches and developed a network policy that was suitable for scoring goals.
     <br>
 </p>
 </details>
@@ -49,11 +47,12 @@ So far, I use these languages for programming:<br>
 <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-c%2B%2B-48.png' title='C++' alt='Python' width='50
 '/>
 <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-python-48.png' title='Python' alt='Python' width='50'/>
-<img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-pytorch-48.png' title='Python' alt='Python' width='50'/>
-<img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-tensorflow-48.png' title='Python' alt='Python' width='50'/>
+<img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-pytorch-48.png' title='PyTorch' alt='Python' width='50'/>
+<img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-tensorflow-48.png' title='Tensorflow' alt='Python' width='50'/>
 <p align = 'center'>
 And I've used these technologies to implement my work:<br>
 <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-discord-48.png' title='Discord' alt='Python' width='50'/>
+
 
 
 
