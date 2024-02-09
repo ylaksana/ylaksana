@@ -5,7 +5,7 @@
 ![Header](https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/intro.jpg "Header")
 
 
-Hello there, I'm Yohannes! I graduated from the University of Texas at Austin with the bachelor's degree in Neuroscience and am now starting to pursue a Master's in Computer Science. I'm looking for new opportunities and experiences with an interest in software and game development and am open to discovering other fields such as data science. I want to broaden my horizons and know more about the tech industry outside of the classroom.
+Hello there, I'm Yohannes! I graduated from the University of Texas at Austin with the bachelor's degree in Neuroscience and am now starting to pursue a Master's in Computer Science. I'm looking for new opportunities and experiences with an interest in website and app development and am open to discovering other fields such as data science. I want to broaden my horizons and know more about the tech industry outside of the classroom.
 
 ![Header](https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/projects.jpg "Header")
 <details>
@@ -40,6 +40,8 @@ Here is an example of what it can do so far:
 </p>
 </details>
 
+<br>
+
 ![Header](https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/languages.jpg "Header")
 
 <p align = 'center'>
@@ -59,7 +61,7 @@ And I've used these technologies to implement my work:<br>
 <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-discord-48.png' title='Discord' alt='Python' width='50'/>
 <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-android-os-50.png' title='Android' alt='Python' width='50'/>
 <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-postgresql-48.png' title='Postgre' alt='Python' width='50'/>
-
+<img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-chrome-48.png' title='Chrome' alt='Python' width='50'/>
 
 
 </p>
