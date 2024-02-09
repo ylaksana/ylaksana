@@ -38,6 +38,18 @@ Here is an example of what it can do so far:
     These are class projects that involved designing and optimizing neural networks. These networks utilize the PyTorch library in Python and they deal with challenges such as objection detection and computer vision using batched images. I also did state based learning for SuperTuxKart hockey matches and developed a network policy that was suitable for scoring goals.
     <br>
 </p>
+</p>
+</details>
+<p>
+</details>
+<details>
+    <summary>
+        <a href="https://ylaksana.github.io/Website-Project/"><u>HTML/CSS layout project</u></a> - Website layout <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-html-48.png' title='PokeCaller' alt='Python' width='17'/>
+    </summary>
+    This is a website project I started during Winter 2023 and I'm currently working on it. I learned HTML and CSS and decided to create something to build experience and intuition on website creation. I'm still figuring out features that users can interact with for more engagement rather than just static information.
+    <br>
+</p>
+
 </details>
 
 <br>
