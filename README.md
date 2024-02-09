@@ -58,7 +58,7 @@ So far, I use these languages for programming:<br>
 And I've used these technologies to implement my work:<br>
 <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-discord-48.png' title='Discord' alt='Python' width='50'/>
 <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-android-os-50.png' title='Android' alt='Python' width='50'/>
-
+<img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-postgresql-48.png' title='Postgre' alt='Python' width='50'/>
 
 
 
