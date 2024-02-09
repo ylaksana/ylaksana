@@ -46,7 +46,7 @@ Here is an example of what it can do so far:
     <summary>
         <a href="https://ylaksana.github.io/Website-Project/"><u>HTML/CSS layout project</u></a> - Website layout <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-html-48.png' title='PokeCaller' alt='Python' width='17'/>
     </summary>
-    This is a website project I started during Winter 2023 and I'm currently working on it. I learned HTML and CSS and decided to create something to build experience and intuition on website creation. I'm still figuring out features that users can interact with for more engagement rather than just static information.
+    This is a website project I started during Winter 2023 and I'm currently working on it. I learned HTML and CSS and decided to create something to build experience and intuition on website creation. I'm still figuring out features that viewers can interact with rather than just displaying static information for more user engagement.
     <br>
 </p>
 
