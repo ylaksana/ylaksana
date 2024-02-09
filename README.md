@@ -30,7 +30,7 @@ Here is an example of what it can do so far:
     <br>
 </p>
 </details>
-
+<p>
 <details>
     <summary>
         <a href="https://github.com/ylaksana/Deep-Learning-Projects"><u>Deep Learning Projects</u></a> - Classification Networks <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-pytorch-48.png' title='PokeCaller' alt='Python' width='17'/>
@@ -49,9 +49,15 @@ So far, I use these languages for programming:<br>
 <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-python-48.png' title='Python' alt='Python' width='50'/>
 <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-pytorch-48.png' title='PyTorch' alt='Python' width='50'/>
 <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-tensorflow-48.png' title='Tensorflow' alt='Python' width='50'/>
+<img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-kotlin-64.png' title='Kotlin' alt='Python' width='50'/>
+<img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-javascript-48.png' title='Javascript' alt='Python' wid th='50'/>
+<img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-java-48.png' title='Java' alt='Python' width='50'/>
+<img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-css-48.png' title='CSS' alt='Python' width='50'/>
+<img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-html-48.png' title='HTML' alt='Python' width='50'/>
 <p align = 'center'>
 And I've used these technologies to implement my work:<br>
 <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-discord-48.png' title='Discord' alt='Python' width='50'/>
+<img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-android-os-50.png' title='Android' alt='Python' width='50'/>
 
 
 
