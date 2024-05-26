@@ -41,8 +41,9 @@ Here is an example of what it can do so far:
 
 <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/pokeCallerExample.JPG' title='C++' alt='Python' width='300'>
 </details>
-<br>
+<p>
 <details>
+<p>
     <summary>
         <a href="https://github.com/ylaksana/CatWarriors"><u>Cat Warriors</u></a> - Singleplayer Text Role-playing Game <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-cat-butt-30.png' title='PokeCaller' alt='Python' width='17'/>
     </summary>
@@ -50,16 +51,15 @@ Here is an example of what it can do so far:
     <br>
 </p>
 </details>
-<br>
-</details>
+<p>
 <details>
+<p>
     <summary>
         <a href="https://ylaksana.github.io/Website-Project/"><u>HTML/CSS layout project</u></a> - Website layout <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-html-48.png' title='PokeCaller' alt='Python' width='17'/>
     </summary>
     This is a website project I started during Winter 2023 and I'm currently working on it. I learned HTML and CSS and decided to create something to build experience and intuition on website creation. I'm still figuring out features that viewers can interact with rather than just displaying static information for more user engagement.
     <br>
 </p>
-
 </details>
 
 <br>
