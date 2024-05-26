@@ -13,7 +13,7 @@ Hello there, I'm Yohannes! I graduated from the University of Texas at Austin wi
 
 <details>
     <summary>
-        <a href="https://www.youtube.com/watch?v=z6vibdirZlc"><u>SwipeMeet</u></a> - Social Android App <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-cat-butt-30.png' title='PokeCaller' alt='Python' width='17'/>
+        <a href="https://www.youtube.com/watch?v=z6vibdirZlc"><u>SwipeMeet</u></a> - Social Android App <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-android-30.png' title='PokeCaller' alt='Python' width='17'/>
     </summary>
     This is an android app I developed with another software engineer called SwipeMeet. It is a social event application where users are able to post events they're interested in and interact with other users. The app integrates Firebase for backend services and Firechat for real-time messaging through chat rooms. Users can swipe on event postings left or right to show interest and utilize a filtering system to narrow down events. Many of the functions are made to facilitate an engaging social environment where people can easily find events that they're interested in and meet other people with similar interests.
     <br>
