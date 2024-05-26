@@ -8,6 +8,27 @@
 Hello there, I'm Yohannes! I graduated from the University of Texas at Austin with the bachelor's degree in Neuroscience and am now starting to pursue a Master's in Computer Science. I'm looking for new opportunities and experiences with an interest in website and app development and am open to discovering other fields such as data science. I want to broaden my horizons and know more about the tech industry outside of the classroom.
 
 ![Header](https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/projects.jpg "Header")
+
+</p>
+
+<details>
+    <summary>
+        <a href="https://www.youtube.com/watch?v=z6vibdirZlc"><u>SwipeMeet</u></a> - Social Android App <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-cat-butt-30.png' title='PokeCaller' alt='Python' width='17'/>
+    </summary>
+    This is an android app I developed with another software engineer called SwipeMeet. It is a social event application where users are able to post events they're interested in and interact with other users. The app integrates Firebase for backend services and Firechat for real-time messaging through chat rooms. Users can swipe on event postings left or right to show interest and utilize a filtering system to narrow down events. Many of the functions are made to facilitate an engaging social environment where people can easily find events that they're interested in and meet other people with similar interests.
+    <br>
+</p>
+</details>
+<p>
+<details>
+    <summary>
+        <a href="https://github.com/ylaksana/Deep-Learning-Projects"><u>Deep Learning Projects</u></a> - Classification Networks <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-pytorch-48.png' title='PokeCaller' alt='Python' width='17'/>
+    </summary>
+    These are class projects that involved designing and optimizing neural networks. These networks utilize the PyTorch library in Python and they deal with challenges such as objection detection and computer vision using batched images. I also did state based learning for SuperTuxKart hockey matches and developed a network policy that was suitable for scoring goals.
+    <br>
+</p>
+</details>
+<p>
 <details>
     <summary>
         <a href="https://github.com/ylaksana/pokemonCaller"><u>Pokemon Caller</u></a> - Pokemon Information Discord Bot <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-pokeball-48.png' title='PokeCaller' alt='Python' width='15'/>
@@ -20,8 +41,7 @@ Here is an example of what it can do so far:
 
 <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/pokeCallerExample.JPG' title='C++' alt='Python' width='300'>
 </details>
-</p>
-
+<br>
 <details>
     <summary>
         <a href="https://github.com/ylaksana/CatWarriors"><u>Cat Warriors</u></a> - Singleplayer Text Role-playing Game <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-cat-butt-30.png' title='PokeCaller' alt='Python' width='17'/>
@@ -30,17 +50,7 @@ Here is an example of what it can do so far:
     <br>
 </p>
 </details>
-<p>
-<details>
-    <summary>
-        <a href="https://github.com/ylaksana/Deep-Learning-Projects"><u>Deep Learning Projects</u></a> - Classification Networks <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-pytorch-48.png' title='PokeCaller' alt='Python' width='17'/>
-    </summary>
-    These are class projects that involved designing and optimizing neural networks. These networks utilize the PyTorch library in Python and they deal with challenges such as objection detection and computer vision using batched images. I also did state based learning for SuperTuxKart hockey matches and developed a network policy that was suitable for scoring goals.
-    <br>
-</p>
-</p>
-</details>
-<p>
+<br>
 </details>
 <details>
     <summary>
