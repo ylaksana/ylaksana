@@ -13,7 +13,7 @@ Hello there, I'm Yohannes! I'm currently a computer science graduate student at 
 
 <details>
     <summary>
-        <a href = 'https://github.com/ylaksana/Artist-Alley-Orders'></a><u>Artist Alley Sales Tracker</u></a> - Sales Tracking App <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/refs/heads/main/master/resources/icons8-sales-32.png' title='PokeCaller' alt='Python' width='17'/>
+        <a href = "https://github.com/ylaksana/Artist-Alley-Orders"></a><u>Artist Alley Sales Tracker</u></a> - Sales Tracking App <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/refs/heads/main/master/resources/icons8-sales-32.png' title='PokeCaller' alt='Python' width='17'/>
     </summary>
     This is a sales tracking app that I've developed by learning a new tech stack consisting of React Native, Expo, and Typescript. I made it this year because I wanted to help my wife with her art business sales. I thought it was tedious to write down sales on a notepad and thought it'd be cool if I could create an app like Square that could immediately log sales information into a organized list. Each market event we attend has a different audience and I thought it'd be nice to see specifically what each audience like which products. I'm planning on developing it further by keeping track of inventory as well as trying out an AI to analyze sales.
     <br>
