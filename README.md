@@ -88,7 +88,7 @@ So far, I use these languages for programming:<br>
 <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-css-48.png' title='CSS' alt='Python' width='50'/>
 <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-html-48.png' title='HTML' alt='Python' width='50'/>
 <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/refs/heads/main/master/resources/icons8-react-native-48.png' title='React Native' alt='Python' width='50'/>
-<img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/refs/heads/main/master/resources/icons8-react-native-48.png' title='Typescript' alt='Python' width='50'/>
+<img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/refs/heads/main/master/resources/icons8-typescript-48.png' title='Typescript' alt='Python' width='50'/>
 
 <p align = 'center'>
 And I've used these technologies to implement my work:<br>
