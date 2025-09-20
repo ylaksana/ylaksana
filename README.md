@@ -5,12 +5,21 @@
 ![Header](https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/intro.jpg "Header")
 
 
-Hello there, I'm Yohannes! I graduated from the University of Texas at Austin with the bachelor's degree in Neuroscience and am now starting to pursue a Master's in Computer Science. I'm looking for new opportunities and experiences with an interest in website and app development and am open to discovering other fields such as data science. I want to broaden my horizons and know more about the tech industry outside of the classroom.
+Hello there, I'm Yohannes! I'm currently a computer science graduate student at the University of Texas at Austin and I like creating mobile apps! I've made mobile apps for sales tracking and social interaction and it's a field that I'm passionate about because I love creating apps that can solve every day problems. I also enjoy AI and how it can integrate into existing apps to further assist its users. I've taken many classes in AI and machine learning in my Masters program and I see how it could be revolutionary in many fields, even in software development. I'm interested in looking for opportunities in the tech industry and would love to talk about my skills and just tech in general.
 
 ![Header](https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/projects.jpg "Header")
 
 </p>
 
+<details>
+    <summary>
+        <a href="https://www.youtube.com/watch?v=z6vibdirZlc"><u>SwipeMeet</u></a> - Social Android App <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-android-30.png' title='PokeCaller' alt='Python' width='17'/>
+    </summary>
+    This is a sales tracking app that I've developed by learning a new tech stack consisting of React Native, Expo, and Typescript. I made it this year because I wanted to help my wife with her art business sales. I thought it was tedious to write down sales on a notepad and thought it'd be cool if I could create an app like Square that could immediately log sales information into a organized list. Each market event we attend has a different audience and I thought it'd be nice to see specifically what each audience like which products. I'm planning on developing it further by keeping track of inventory as well as trying out an AI to analyze sales.
+    <br>
+</p>
+</details>
+<p>
 <details>
     <summary>
         <a href="https://www.youtube.com/watch?v=z6vibdirZlc"><u>SwipeMeet</u></a> - Social Android App <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-android-30.png' title='PokeCaller' alt='Python' width='17'/>
