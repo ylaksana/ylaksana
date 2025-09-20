@@ -87,12 +87,16 @@ So far, I use these languages for programming:<br>
 <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-java-48.png' title='Java' alt='Python' width='50'/>
 <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-css-48.png' title='CSS' alt='Python' width='50'/>
 <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-html-48.png' title='HTML' alt='Python' width='50'/>
+<img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/refs/heads/main/master/resources/icons8-react-native-48.png' title='React Native' alt='Python' width='50'/>
+<img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/refs/heads/main/master/resources/icons8-react-native-48.png' title='Typescript' alt='Python' width='50'/>
+
 <p align = 'center'>
 And I've used these technologies to implement my work:<br>
 <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-discord-48.png' title='Discord' alt='Python' width='50'/>
 <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-android-os-50.png' title='Android' alt='Python' width='50'/>
 <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-postgresql-48.png' title='Postgre' alt='Python' width='50'/>
 <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-chrome-48.png' title='Chrome' alt='Python' width='50'/>
+<img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/refs/heads/main/master/resources/icons8-expo-60.png' title='Expo' alt='Python' width='45'/>
 
 
 </p>
