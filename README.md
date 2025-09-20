@@ -97,7 +97,7 @@ And I've used these technologies to implement my work:<br>
 <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-postgresql-48.png' title='Postgre' alt='Python' width='50'/>
 <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/main/master/resources/icons8-chrome-48.png' title='Chrome' alt='Python' width='50'/>
 <img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/refs/heads/main/master/resources/icons8-expo-60.png' title='Expo' alt='Python' width='45'/>
-
+<img src = 'https://raw.githubusercontent.com/ylaksana/ylaksana/refs/heads/main/master/resources/icons8-sqlite-50%20(1).png' title='SQLite' alt='Python' width='45'/>
 
 </p>
 
